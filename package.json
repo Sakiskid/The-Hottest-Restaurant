@@ -1,0 +1,23 @@
+{
+  "name": "the-hottest-restaurant",
+  "version": "1.0.0",
+  "description": "In class activity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakiskid/The-Hottest-Restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakiskid/The-Hottest-Restaurant/issues"
+  },
+  "homepage": "https://github.com/Sakiskid/The-Hottest-Restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
